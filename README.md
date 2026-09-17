@@ -1,6 +1,19 @@
-# Aaron Zheng 的静态博客
+# Hi, I'm Aaron 👋
 
-这是本人的静态博客，基于 Jekyll 和 Chirpy 主题搭建，用于记录与分享个人文章。
+一名写 Java 的开发者，曾在互联网大厂搬砖，也会写一点 Swift。
+
+- ☕ **Java** · 我的主力语言。
+- 🍎 **Swift** · 会写一点，还在慢慢探索。
+- 🛠️ **经历** · 曾在互联网大厂从事开发工作。
+- ✍️ **博客** · 在 [SightCorner · 视角](https://sightcorner.com/) 记录技术与生活。
+
+
+---
+
+<details>
+<summary>关于这个仓库 · 博客本地运行指南</summary>
+
+这是本人的静态博客源码，基于 Jekyll 和 Chirpy 主题搭建，同时用作 GitHub 个人主页介绍。
 
 ## 本地启动
 
@@ -29,3 +42,5 @@ bundle install
 ## 写文章
 
 文章保存在 `_posts` 目录中，文件名使用 `YYYY-MM-DD-文章标题.md` 格式。
+
+</details>
